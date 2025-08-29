@@ -5,7 +5,7 @@
   "language": "en",
   "payload": {
     "type": "ts",
-    "url": "https://raw.githubusercontent.com/JiangJunLioth/seanime-extensions/refs/heads/main/hanime1/hanime-provider.ts"
+    "url": "https://raw.githubusercontent.com/JiangJunLigth/seanime-extensions/refs/heads/main/hanime1/hanime-provider.ts"
   },
   "version": "1.0.0",
   "description": "Provider for Hanime1.me streaming",
