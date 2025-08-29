@@ -1,1 +1,33 @@
-
+{
+  "id": "hanime1-online-streaming",
+  "name": "Hanime1.me Enhanced",
+  "type": "onlinestream-provider",
+  "language": ["en", "jp", "cn"],
+  "payload": {
+    "type": "ts",
+    "url": "https://raw.githubusercontent.com/your-repo/seanime-extensions/main/hanime-provider.ts"
+  },
+  "version": "1.1.0",
+  "description": "Enhanced provider for Hanime1.me with improved video source detection, fallback domains, and caching.",
+  "author": "IKUN",
+  "icon": "https://hanime1.me/favicon.ico",
+  "homepage": "https://hanime1.me",
+  "updateUrl": "https://raw.githubusercontent.com/your-repo/seanime-extensions/main/hanime1-online-streaming.json",
+  "features": [
+    "Multi-domain fallback",
+    "Enhanced video source detection", 
+    "Memory caching",
+    "Subtitle support",
+    "Multiple quality options"
+  ],
+  "settings": {
+    "preferredQuality": "1080p",
+    "enableSubtitles": true,
+    "cacheTimeout": 300000,
+    "requestTimeout": 15000
+  },
+  "compatibility": {
+    "minSeanimeVersion": "1.0.0",
+    "supportedFormats": ["m3u8", "mp4", "mkv", "webm"]
+  }
+}
