@@ -5,7 +5,7 @@
   "language": ["en", "jp", "cn"],
   "payload": {
     "type": "ts",
-    "url": "https://raw.githubusercontent.com/your-repo/seanime-extensions/main/hanime-provider.ts"
+    "url": "https://raw.githubusercontent.com/JiangJunLigth/seanime-extensions/refs/heads/main/hanime1/hanime-provider.ts"
   },
   "version": "1.1.0",
   "description": "Enhanced provider for Hanime1.me with improved video source detection, fallback domains, and caching.",
