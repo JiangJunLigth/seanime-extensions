@@ -9,5 +9,5 @@
   "lang": "zh-CN",
   "icon": "https://raw.githubusercontent.com/JiangJunLigth/seanime-extensions/main/yhdm/logo.jpg",
   "website": "https://yhdm.one",
-  "payloadURI": "https://raw.githubusercontent.com/your-username/seanime-yhdm-extension/main/yhdm-provider.ts"
+  "payloadURI": "https://raw.githubusercontent.com/JiangJunLigth/seanime-extensions/refs/heads/main/yhdm/provider.ts"
 }
