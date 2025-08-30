@@ -1,1 +1,13 @@
-
+{
+  "id": "yhdm-one",
+  "name": "樱花动漫",
+  "version": "1.0.0",
+  "description": "樱花动漫 yhdm.one 在线观看提供商，支持中文动漫内容",
+  "author": "IKUN",
+  "type": "onlinestream-provider",
+  "language": "typescript",
+  "lang": "zh-CN",
+  "icon": "https://yhdm.one/favicon.ico",
+  "website": "https://yhdm.one",
+  "payloadURI": "https://raw.githubusercontent.com/your-username/seanime-yhdm-extension/main/yhdm-provider.ts"
+}
